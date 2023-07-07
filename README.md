@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brandon, an <a href="https://www.linkedin.com/in/brandon-richards-3a02b9127/"> inspiring IT Professional</a>☺</h1>
+<h1>Hi, I'm Brandon, an inspiring <a href="https://www.linkedin.com/in/brandon-richards-3a02b9127/"> IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
