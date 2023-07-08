@@ -19,4 +19,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: (https://www.linkedin.com/in/brandon-richards-3a02b9127/)https://www.linkedin.com/in/brandon-richards-3a02b9127/
