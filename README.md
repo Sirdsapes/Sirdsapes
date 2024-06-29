@@ -11,6 +11,9 @@
 - <b>OpenVAS<b>
   - [OpenVAS Vulnerabitlity Management](https://github.com/Sirdsapes/openVAS)   
 
+- <b>SOHO Network Project
+  - [SOHO Network Project](https://github.com/Sirdsapes/SOHO-Network-Project)
+
 <h2>🤳Connect with me:</h2>
 
 Email: beaked_point@yahoo.com
