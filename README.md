@@ -11,8 +11,11 @@
 - <b>OpenVAS<b>
   - [OpenVAS Vulnerabitlity Management](https://github.com/Sirdsapes/openVAS)   
 
-- <b>SOHO Network Project
+- <b>SOHO Network Project<b>
   - [SOHO Network Project](https://github.com/Sirdsapes/SOHO-Network-Project)
+
+- <b>Campus Network Project<b>
+  - [Campus Network Project](https://github.com/Sirdsapes/SOHO-Network-Project](https://github.com/Sirdsapes/Campus-Network-Project))
 
 <h2>🤳Connect with me:</h2>
 
