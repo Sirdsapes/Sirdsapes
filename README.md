@@ -6,10 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Sirdsapes/osticket-prereqs)
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Sirdsapes/configure-ad)
-
-- <b>OpenVAS<b>
-  - [OpenVAS Vulnerabitlity Management](https://github.com/Sirdsapes/openVAS)   
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Sirdsapes/configure-ad) 
 
 - <b>SOHO Network Project<b>
   - [SOHO Network Project](https://github.com/Sirdsapes/SOHO-Network-Project)
