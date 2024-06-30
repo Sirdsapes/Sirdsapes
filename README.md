@@ -12,7 +12,7 @@
   - [SOHO Network Project](https://github.com/Sirdsapes/SOHO-Network-Project)
 
 - <b>Campus Network Project<b>
-  - [Campus Network Project]((https://github.com/Sirdsapes/Campus-Network-Project))
+  - [Campus Network Project](https://github.com/Sirdsapes/Campus-Network-Project))
  
 - <b>Company Network Project<b>
   - [Company Network Project](https://github.com/Sirdsapes/Company-Network-Project/tree/main)
